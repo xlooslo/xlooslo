@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from 🇰🇷 Korea</h3>
 <br/>
 
-<img align="right" width="500" src="https://mblogthumb-phinf.pstatic.net/20160916_23/crist9112_1474000783275Bi5is_GIF/tumblr_ntl6adJeov1tpri36o1_400.gif?type=w800"/>
+<img align="right" width="450" src="https://mblogthumb-phinf.pstatic.net/20160916_23/crist9112_1474000783275Bi5is_GIF/tumblr_ntl6adJeov1tpri36o1_400.gif?type=w800"/>
 
 🏢 **UMC** • 4기 Web Frontend
 
