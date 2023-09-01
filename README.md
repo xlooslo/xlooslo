@@ -27,5 +27,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xlooslo&theme=dark" alt="xlooslo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlooslo&layout=compact&theme=dark" alt="xlooslo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlooslo&layout=compact&theme=dark&hide=html" alt="xlooslo" /></p>
 
