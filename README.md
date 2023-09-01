@@ -4,13 +4,13 @@
 
 <img align="right" width="500" src="https://mblogthumb-phinf.pstatic.net/20160916_23/crist9112_1474000783275Bi5is_GIF/tumblr_ntl6adJeov1tpri36o1_400.gif?type=w800"/>
 
-- 🏢 **UMC** 4기 Web Frontend
+🏢 **UMC** • 4기 Web Frontend
 
-- 👨‍👩‍👧‍👦 **Job1** 피고용자 커뮤니티
+👨‍👩‍👧‍👦 **Job1** • 피고용자 커뮤니티
 
-- 👨‍👩‍👧‍👦 **place.** 전시회 공유 플랫폼
+👨‍👩‍👧‍👦 **place.** • 전시회 공유 플랫폼
 
-- 🏢 **UMC** 5기 Springboot
+🏢 **UMC** • 5기 Springboot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
