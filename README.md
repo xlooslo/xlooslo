@@ -25,8 +25,6 @@
 
 <p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xlooslo&show_icons=true&locale=en&theme=radical" alt="xlooslo" /></p>
 
-<p><img align="left" height="200" src="http://mazassumnida.wtf/api/generate_badge?boj=bluearth4587" alt="xlooslo" /></p>
+<p><img align="left" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xlooslo&theme=2077&exclude=html" alt="xlooslo" /></p>
 
-<p><img align="center" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xlooslo&theme=2077&exclude=html" alt="xlooslo" /></p>
-
-
+<p><img align="center" height="200" src="http://mazassumnida.wtf/api/generate_badge?boj=bluearth4587" alt="xlooslo" /></p>
