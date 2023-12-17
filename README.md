@@ -12,9 +12,9 @@
 
 🏢 **UMC** • 5기 Springboot
 
-🏢 ~~네카라쿠배당토~~
+🏢 
 
-🏢 ~~구글어쩌고저쩌고~~
+🏢 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
