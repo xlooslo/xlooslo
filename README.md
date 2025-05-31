@@ -1,7 +1,17 @@
 <h1 align="center">Hi, I'm xlooslo 👋</h1>
-<br/>
 
 <img align="right" width="400" src="https://mblogthumb-phinf.pstatic.net/20160916_23/crist9112_1474000783275Bi5is_GIF/tumblr_ntl6adJeov1tpri36o1_400.gif?type=w800"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <li>I'm ineterested in AI-based drug design</li>  
+  <li>bluearth4587@gmail.com</li>
+<p>
+</p>
+<a href="https://instagram.com/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlo_oslo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xlo_oslo" height="30" width="40" /></a>
+</p>
+<h3 align="left">Experience:</h3>
+<p align="left">
 <p align="left" style="font-size: 14px;">
 <ul>
   <li>
@@ -27,12 +37,4 @@
   </li>
 </ul>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <li>bluearth4587@gmail.com</li>
-<p>
-</p>
-<a href="https://instagram.com/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlo_oslo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xlo_oslo" height="30" width="40" /></a>
 </p>
