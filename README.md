@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://mblogthumb-phinf.pstatic.net/20160916_23/crist9112_1474000783275Bi5is_GIF/tumblr_ntl6adJeov1tpri36o1_400.gif?type=w800"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <li>I'm ineterested in AI-based drug design</li>  
+  <li>I'm interested in AI-based drug design</li>  
   <li>bluearth4587@gmail.com</li>
 <p>
 </p>
