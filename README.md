@@ -7,8 +7,7 @@
   <li>bluearth4587@gmail.com</li>
 <p>
 </p>
-<a href="https://instagram.com/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlo_oslo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xlo_oslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xlo_oslo" height="30" width="40" /></a>
+<a href=https://scholar.google.co.kr/citations?user=yVg5nyUAAAAJ&hl=ko><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=ffffff"/></a>
 </p>
 <h3 align="left">Experience:</h3>
 <p align="left">
