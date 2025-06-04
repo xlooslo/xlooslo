@@ -8,6 +8,7 @@
 <p>
 </p>
 <a href=https://scholar.google.co.kr/citations?user=yVg5nyUAAAAJ&hl=ko><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=ffffff"/></a>
+<a href=https://www.instagram.com/xlo_oslo><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=ffffff"/></a>
 </p>
 <h3 align="left">Experience:</h3>
 <p align="left">
