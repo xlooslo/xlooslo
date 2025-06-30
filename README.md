@@ -29,10 +29,10 @@
   <li>
     <strong>UMC Hongik</strong>  
     <ul>
-      <li>4th Frontend <sub>[2023.03-2023.08]</sub></li>
-      <li>5th Backend <sub>[2023.09-2024.02]</sub></li>
-      <li>6th Vice Leader <sub>[2024.03-2024.08]</sub></li>
       <li>7th Leader <sub>[2024.09-2025.02]</sub></li>
+      <li>6th Vice Leader <sub>[2024.03-2024.08]</sub></li>
+      <li>5th Backend <sub>[2023.09-2024.02]</sub></li>
+      <li>4th Frontend <sub>[2023.03-2023.08]</sub></li>
     </ul>
   </li>
 </ul>
