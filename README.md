@@ -15,15 +15,15 @@
 <p align="left" style="font-size: 14px;">
 <ul>
   <li>
-    <strong>Intelligent Platform Lab</strong>
-    <ul>
-      <li>Undergraduate Student <sub>[2024.01-2024.09]</sub></li>
-    </ul>
-  </li>
-  <li>
     <strong>DELAB</strong>
     <ul>
       <li>Intern <sub>[2024.07-]</sub></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Intelligent Platform Lab</strong>
+    <ul>
+      <li>Undergraduate Student <sub>[2024.01-2024.09]</sub></li>
     </ul>
   </li>
   <li>
